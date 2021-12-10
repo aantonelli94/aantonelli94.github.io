@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-An updated version of my CV can be found at the link...
+An updated version of my CV can be found at [this link.](https://github.com/aantonelli94/CV/blob/main/CV.pdf)
