@@ -13,11 +13,11 @@ redirect_from:
 
 ### What am I?
 
-I am a gravitational-wave astrophysicist, and I think about gravity, black holes, and neutron stars quite a bit. In my book, it does not get any more exciting that this! 
+I am a **gravitational-wave astrophysicist**, and I think about gravity, black holes, and neutron stars quite a bit. In my book, it does not get any more exciting that this! 
 
-My expertise is in analytical relativity and gravitational-wave source modelling, but I'm finding myself working more and more at the intersection with data. I am interested in questions about the astrophysics of black holes (especially the chunky ones at the centre of galaxies) and cosmology, which I address with statistical tools that collaborators and I develop. 
+My expertise is in analytical relativity and gravitational-wave source modelling, but I'm finding myself working more and more at the intersection with data. I am interested in the astrophysics of black holes (especially the chunky ones at the centre of galaxies) and cosmology we can learn from gravitational-wave observations. Part of my work is devoted to address related questions with statistical tools.
 
-In this page you can find more about my research by browsing through my [publications](https://aantonelli94.github.io/publications/), peeking into my [talks](https://aantonelli94.github.io/talks/) and [classes](https://aantonelli94.github.io/teaching/)  I've tutored, or by checking a [portfolio](https://aantonelli94.github.io/portfolio/) with a more extensive description of my work.
+In this page you can find more about my research by browsing through my [publications](https://aantonelli94.github.io/publications/), peeking into my [talks](https://aantonelli94.github.io/talks/) (and [classes](https://aantonelli94.github.io/teaching/)  I've tutored), or by checking a [portfolio](https://aantonelli94.github.io/portfolio/) with a more extensive description of my work.
 
 
 -------------
@@ -26,9 +26,10 @@ In this page you can find more about my research by browsing through my [publica
 
 Currently I am a postdoctoral fellow in Emanuele Berti's group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
 
-Before my postdoc, I have defended my PhD at the Max Planck Institute for Gravitational Physics, Potsdam (Germany), where I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm!
+Before my postdoc, I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of Alessandra Buonanno.
+There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm!
 
-Before that, I have earned my master at the University of Oxford and my bachelor in Science at King's College London. My time in the UK not only shaped my scientific interests, but also gave me friends for life I still interact with quite often.
+Before that, I have earned my master at the University of Oxford and my bachelor in Science at King's College London. My time in the UK not only shaped my scientific interests, but also gave me friends for life.
 
 How can I forget my true formative years? For those, look no further than the Liceo Classico in Perugia, perked in the wonderful hills of Umbria, my forever hometown.
 
@@ -37,6 +38,5 @@ How can I forget my true formative years? For those, look no further than the Li
 
 ### Why am I?
 
-If you please find an answer to this existential question, please send me a mail on the link to the left of this text.
-
+If you please find an answer to this existential question, please send an email at the link to the left of this text.
 
