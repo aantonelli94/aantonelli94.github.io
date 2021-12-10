@@ -15,7 +15,7 @@ redirect_from:
 
 I am a *gravitational-wave astrophysicist*, and I think about gravity, black holes, and neutron stars quite a bit. In my book, it does not get any more exciting that this! 
 
-My expertise is in analytical relativity and gravitational-wave source modelling, but I'm finding myself working more and more at the intersection with data. I am interested in the astrophysics of black holes (especially the chunky ones at the centre of galaxies) and cosmology we can learn from gravitational-wave observations. Part of my work is devoted to address related questions with statistical tools.
+My expertise is in analytical relativity and gravitational-wave source modelling, but I also like to work with data. I am interested in the black-hole astrophysics and cosmology that we can learn from gravitational-wave observations. Part of my work is devoted to develop statistical tools to maximise the scientific return from such observations.
 
 In this page you can find more about my research by browsing through my [publications](https://aantonelli94.github.io/publications/), peeking into my [talks](https://aantonelli94.github.io/talks/) (and [classes](https://aantonelli94.github.io/teaching/)  I've tutored), or by checking a [portfolio](https://aantonelli94.github.io/portfolio/) with a more extensive description of my work.
 
