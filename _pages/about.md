@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+!(/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 ------------
 
 ### What am I?
@@ -26,10 +28,10 @@ In this page you can find more about my research by browsing through my [publica
 
 Currently I am a *postdoctoral fellow* in Emanuele Berti's group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
 
-Before my postdoc, I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of Alessandra Buonanno.
+I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of Alessandra Buonanno.
 There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm!
 
-Before that I was a master student at the University of Oxford, a BSc student at King's College London, and a student at the Liceo Classico in Perugia, perked in the wonderful hills of Umbria, my forever hometown.
+Before that I was a master student at the University of Oxford, a BSc student at King's College London, and a student at the Liceo Classico in Perugia, perked in the wonderful hills of Umbria.
 
 
 -------------
