@@ -1,7 +1,7 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /talks_new/
+title: "Talks"
 ---
 
 
-This is a try.
+This is another try.
