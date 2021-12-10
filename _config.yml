@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Andrea Antonelli"
 title_separator          : "-"
 name                     : &name "Andrea Antonelli"
 description              : &description "Gravitational-wave astrophysicist: interested in gravity, astrophysics of black holes, and statistical analyses."
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Antonelli"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Gravitational-wave astrophysicist: interested in gravity, astrophysics of black holes, and statistical analyses."
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Baltimore, Maryland"
+  employer         : "Johns Hopkins University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "andrea.antonelli@aei.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/aantonelli94"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6536-0822"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
