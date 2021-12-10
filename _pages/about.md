@@ -13,7 +13,7 @@ redirect_from:
 
 ### What am I?
 
-I am a **gravitational-wave astrophysicist**, and I think about gravity, black holes, and neutron stars quite a bit. In my book, it does not get any more exciting that this! 
+I am a *gravitational-wave astrophysicist*, and I think about gravity, black holes, and neutron stars quite a bit. In my book, it does not get any more exciting that this! 
 
 My expertise is in analytical relativity and gravitational-wave source modelling, but I'm finding myself working more and more at the intersection with data. I am interested in the astrophysics of black holes (especially the chunky ones at the centre of galaxies) and cosmology we can learn from gravitational-wave observations. Part of my work is devoted to address related questions with statistical tools.
 
@@ -24,7 +24,7 @@ In this page you can find more about my research by browsing through my [publica
 
 ### Where am/was I?
 
-Currently I am a postdoctoral fellow in Emanuele Berti's group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
+Currently I am a *postdoctoral fellow* in Emanuele Berti's group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
 
 Before my postdoc, I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of Alessandra Buonanno.
 There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm!
