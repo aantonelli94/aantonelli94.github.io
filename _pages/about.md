@@ -11,7 +11,7 @@ redirect_from:
 
 ------------
 
-### What am I?
+### Who am I?
 
 I am a *gravitational-wave astrophysicist*, and I think about gravity, black holes, and neutron stars quite a bit. In my book, it does not get any more exciting that this! 
 
