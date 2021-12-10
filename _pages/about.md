@@ -29,9 +29,7 @@ Currently I am a *postdoctoral fellow* in Emanuele Berti's group at Johns Hopkin
 Before my postdoc, I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of Alessandra Buonanno.
 There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm!
 
-Before that, I have earned my master at the University of Oxford and my bachelor in Science at King's College London. My time in the UK not only shaped my scientific interests, but also gave me friends for life.
-
-How can I forget my true formative years? For those, look no further than the Liceo Classico in Perugia, perked in the wonderful hills of Umbria, my forever hometown.
+Before that I was a master student at the University of Oxford, a BSc student at King's College London, and a student at the Liceo Classico in Perugia, perked in the wonderful hills of Umbria, my forever hometown.
 
 
 -------------
