@@ -3,7 +3,7 @@ permalink: /talks_new/
 title: "Talks"
 ---
 
-![Sorry, the image cannot be displayed] (talkimage "A Serious Man")
+![Sorry, the image cannot be displayed] (talkimage.png)
 
 
 Here is a list of talks I have given over the years. **Bold titles** denote invited talks.
