@@ -3,6 +3,8 @@ permalink: /talks_new/
 title: "Talks"
 ---
 
+![alt text](/images_pages/talkimage)
+
 
 Here is a list of talks I have given over the years. **Bold titles** denote invited talks.
 
