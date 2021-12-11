@@ -18,7 +18,7 @@ To maximise the scientific return of current and future detectors, GW astrophysi
 
 ------------------
 
-### For the curious
+### For the connoisseur
 
 ------------------
 
