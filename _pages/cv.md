@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[CV](https://github.com/aantonelli94/CV/blob/main/CV.pdf){: .btn--research}
+[Click here](https://github.com/aantonelli94/CV/blob/main/CV.pdf){: .btn--research}
