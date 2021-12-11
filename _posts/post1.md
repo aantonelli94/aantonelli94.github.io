@@ -1,7 +1,7 @@
 ---
 title: 'Ends and beginnings'
 date: 2021-12-10
-permalink: /posts/2021/12/10/
+permalink: /posts/post1/
 tags:
   - Career
 ---
