@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
- -------------
  
 
 ![image info](./pictures/minimal_mountain.png)
 
-------------
+
 
 ### Who am I?
 
