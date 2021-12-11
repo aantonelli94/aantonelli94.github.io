@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+![image info](./pictures/san-juan-mountains.jpg)
+
 ------------
 
 ### Who am I?
