@@ -1,7 +1,7 @@
 ---
 title: 'Ends and beginnings'
 date: 2021-12-11
-permalink: /posts/2019/06/combining-pdfs/
+permalink: /posts/2021/12/endsandbeginnings/
 excerpt_separator: <!--more-->
 toc: true
 tags:
