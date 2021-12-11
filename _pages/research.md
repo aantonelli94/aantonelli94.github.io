@@ -35,9 +35,9 @@ General relativity, the pillar of **gravitational physics**, must be studied in 
 
 Lost in the elegance of the black-hole solutions to the Einstein equations, it is sometimes easy to forget that such objects are very much **astrophysical**. Perhaps the most astounding astrophysical observations of black holes concern the *supermassive black holes* at the centre of most galaxies. These are key ingredients in our current understanding of how galaxies form.
 
->In my research I focus on understanding the effects of *accretion disks* around supermassive black holes, and whether they could have an observational impact on detectable sources or on galaxy formation.
+>In my research I focus on understanding the effects of *accretion disks* around supermassive black holes, and whether they could have an observational impact on detectable LISA sources or on galaxy formation.
 
-Supermassive black holes may be detected with LISA in the future, but they are already seen electromagnetically. This is certainly the case for Sgr A\*, the behemoth in our cosmic backyard. In fact, the Milky Way contains thousands of other sources, such as white-dwarf binaries, that are compact enough to be seen across the electromagnetic and gravitational spectra.
+Supermassive black holes may be detected with LISA in the future, but they are already known to be there in most galaxies. This is certainly the case for Sgr A\*, the behemoth in our cosmic backyard. In fact, the Milky Way contains thousands of other sources, such as white-dwarf binaries, that are compact enough to be seen across the electromagnetic and gravitational spectra.
 
 >  I am interested in using  the thousands of *galactic binaries* we expect to detect with LISA as precise probes to test general relativity and the environments of the Milky Way.
 
