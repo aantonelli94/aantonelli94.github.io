@@ -8,11 +8,11 @@ author_profile: true
  -------------
  
  
-An up-to-date list of papers with metrics can be found at this [link](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}.
+For an up-to-date list of papers with metrics [click here](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}.
 
  -------------
  
-Here's a list of papers I have been involved in:
+Here's a list for consistency:
 
 <ol reversed>
   <li> "Noisy neighbours: inference biases from overlapping gravitational-wave signals", <b>Antonelli</b>, Burke, Gair. <i>Mon.Not.Roy.Astron.Soc.</i> 507 (2021) 4, 5069-5086 (<a href="https://arxiv.org/abs/2104.01897"> e-Print.</a>).</li>
@@ -21,3 +21,5 @@ Here's a list of papers I have been involved in:
   <li>"Quasicircular inspirals and plunges from nonspinning effective-one-body Hamiltonians with gravitational self-force information", <b>Antonelli</b>, van de Meent, Buonanno, Steinhoff, Vines. <i>Phys.Rev.D</i> 101 (2020) 2, 024024 (<a href="https://arxiv.org/abs/1907.11597"> e-Print.</a>).</li>
   <li>"Energetics of two-body Hamiltonians in post-Minkowskian gravity", <b>Antonelli</b>, Buonanno, Steinhoff, van de Meent, Vines. <i>Phys.Rev.D</i> 99 (2019) 10, 104004 (<a href="https://arxiv.org/abs/1901.07102"> e-Print.</a>).</li>
 </ol>
+
+
