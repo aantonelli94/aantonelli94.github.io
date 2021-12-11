@@ -14,7 +14,6 @@ To maximise the scientific return of current as well as future detectors, GW ast
 
 ------------------
 
-<img style="float: right;" src="./pictures/penrosediag.jpg" width="50">
 
 >Unsurprisingly, the **theory of gravity** needs to be studied in excruciating detail. Within certain schemes, solutions to the general-relativistic equations of motions can be obtained. This is the bedrock to develop waveform predictions, themselves the pillars of GW *source modelling*. This theme also includes studying potential *modifications* to the underlying theories of gravity (because you never know!) and their effects on cosmology or the spacetime of compact objects. 
 
