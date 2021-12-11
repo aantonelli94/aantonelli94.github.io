@@ -11,7 +11,7 @@ redirect_from:
  -------------
  
 
-![image info](./pictures/san-juan-mountains.jpg)
+![image info](./pictures/minimal_mountain.png)
 
 ------------
 
