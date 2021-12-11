@@ -2,9 +2,12 @@
 permalink: /talks_new/
 title: "Talks"
 ---
-
+ -------------
+ 
 ![image info](./pictures/talkimage.png)
 
+ -------------
+ 
 Here is a list of talks I have given over the years. **Bold titles** denote invited talks.
 
 <ol reversed>

@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+ -------------
+ 
 
 ![image info](./pictures/san-juan-mountains.jpg)
 
