@@ -20,16 +20,16 @@ I am a *gravitational-wave astrophysicist*, and I think about gravity, black hol
 
 My expertise is in analytical relativity and gravitational-wave source modelling, but I also like to work with data. I am interested in the black-hole astrophysics and cosmology that we can learn from gravitational-wave observations. Part of my work is devoted to develop statistical tools to maximise the scientific return from such observations.
 
-In this page you can find more about my research by browsing through [the dedicated page](https://aantonelli94.github.io/research/) or my [publications](https://aantonelli94.github.io/publications/).
+In this page you can find more about my research by browsing through [the dedicated page](https://aantonelli94.github.io/research/){: .btn--research} or my [publications](https://aantonelli94.github.io/publications/){: .btn--research}.
 
 -------------
 
 ### Where am/was I?
 
-Currently I am a *postdoctoral fellow* in Emanuele Berti's group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
+Currently I am a *postdoctoral fellow* in [Emanuele Berti](https://pages.jh.edu/eberti2/)'s group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
 
-I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of Alessandra Buonanno.
-There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm!
+I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of [Alessandra Buonanno](https://en.wikipedia.org/wiki/Alessandra_Buonanno).
+There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm.
 
 Before that I was a master student at the University of Oxford, a BSc student at King's College London, and a student at the Liceo Classico in Perugia, perked in the wonderful hills of Umbria.
 
