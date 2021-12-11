@@ -27,7 +27,7 @@ General relativity, the pillar of **gravitational physics**, must be studied in 
 
 >My work exploits the synergies between approximations to the Einstein equations to improve the accuracy attainable in waveform predictions. The approximations I am concerned with are the post-Newtonian, post-Minkowskian and small-mass ratio ones (the latter based on gravitational self-force theory). I have also made extensive use of the effective-one-body formalism to connect all three approaches.
 
-[Projects](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}
+[Projects](/publications){: .btn--research}
 
 
 ------------------
@@ -41,7 +41,7 @@ Supermassive black holes may be detected with LISA in the future, but they are a
 
 >  I am interested in using  the thousands of *galactic binaries* we expect to detect with LISA as precise probes to test general relativity and the environments of the Milky Way.
 
-[Projects](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}
+[Projects](/publications){: .btn--research}
 
 
 ------------------
@@ -52,4 +52,4 @@ Supermassive black holes may be detected with LISA in the future, but they are a
 >I exploit both frequentist and Bayesian statistics to develop robust tools to address current and future data analyses. I am particularly interested in understanding how to deal with many sources at once, which is both needed to extract the parameters of individual sources with future detectors, and to extract astrophysical and cosmological population-level parameters with currently available data.
 
 
-[Projects](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}
+[Projects](/publications){: .btn--research}
