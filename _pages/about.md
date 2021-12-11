@@ -16,7 +16,7 @@ redirect_from:
 
 ### Who am I?
 
-I am a *gravitational-wave astrophysicist*, and I think about gravity, black holes, and neutron stars quite a bit. In my book, it does not get any more exciting that this! 
+I am a *gravitational-wave astrophysicist*, and I think about gravity, black holes, and neutron stars quite a bit.
 
 My expertise is in analytical relativity and gravitational-wave source modelling, but I also like to work with data. I am interested in the black-hole astrophysics and cosmology that we can learn from gravitational-wave observations. Part of my work is devoted to develop statistical tools to maximise the scientific return from such observations.
 

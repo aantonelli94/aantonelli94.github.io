@@ -11,11 +11,26 @@ Since the first detection of the GWs from a coalescing binary formed of two blac
 
 To maximise the scientific return of current as well as future detectors, GW astrophysicists need to work on three broad (and interacting) fronts: the **theory of gravity**, **astrophysics**, and **statistical analyses**.
 
-Unsurprisingly, the **theory of gravity** needs to be studied in excruciating detail. Within certain schemes, solutions to the general-relativistic equations of motions can be obtained. This is the bedrock to develop waveform predictions, themselves the pillars of GW *source modelling*. This theme also includes studying potential *modifications* to the underlying theories of gravity (because you never know!).
+
+------------------
+
+
+Unsurprisingly, the **theory of gravity** needs to be studied in excruciating detail. Within certain schemes, solutions to the general-relativistic equations of motions can be obtained. This is the bedrock to develop waveform predictions, themselves the pillars of GW *source modelling*. This theme also includes studying potential *modifications* to the underlying theories of gravity (because you never know!) and their effects on cosmology or the spacetime of compact objects.
+
+
+------------------
+
 
 The **astrophysics** of black holes also needs to be studied, to understand what we may expect to find in detectors' data. This area may include understanding the formation scenarios of black holes and neutron stars,  the populations of galactic binaries in the Milky Way, the environments of the gargantuan supermassive black holes at the centre of most galaxies, and many more.
 
+
+------------------
+
+
 Finally, **statistics** is the language used to interpret the data coming out of detectors and unlock the Science described above. Statistical analyses need to be absolutely on point to avoid misinterpreting data and inferring the wrong science.
+
+
+------------------
 
 
 In my work, I try to connect some of the dots between gravity, astrophysics and statistical analyses. In any given day I may find myself modelling waveforms, discussing the astrophysics of GW sources, or trying to come up with robust statistical techniques. Most likely, though, a combination of the three.
