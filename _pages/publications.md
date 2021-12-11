@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-An up-to-date list of papers with metrics can be found at the [INSPIRE-HEP](https://inspirehep.net/authors/1755036?ui-citation-summary=true) database.
+An up-to-date list of papers with metrics can be found at this [link](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}.
 
 Here's a list of papers I have been involved in:
 
