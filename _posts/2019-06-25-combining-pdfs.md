@@ -1,13 +1,14 @@
 ---
-title: 'Combining PDF Documents'
-date: 2019-06-26
+title: 'Ends and beginnings'
+date: 2021-12-11
 permalink: /posts/2019/06/combining-pdfs/
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - references
-  - bash
+  - career
 ---
 
 
-this is a try. pls don't judge me for this.
+Wow, what can I say? I just defended my PhD thesis and thus concluded a big chapter of my life, and surely of my academic life. I want to thank all the people in Potsdam for the great years, the banter and, of course, the amazing research we carried out. 
+
+Now a well deserved vacation, and onto a new adventure in Baltimore! 
