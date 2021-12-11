@@ -35,5 +35,5 @@ Before that I was a master student at the University of Oxford, a BSc student at
 
 ### Why am I?
 
-If you please find an answer to this existential question, please send an email at the link to the left of this text.
+If you find an answer to this existential question, please send an email at the link to the left of this text.
 
