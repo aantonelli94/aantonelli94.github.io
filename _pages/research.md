@@ -41,7 +41,7 @@ Supermassive black holes may be detected with LISA in the future, but they are a
 
 >  I am interested in using  the thousands of *galactic binaries* we expect to detect with LISA as precise probes to test general relativity and the environments of the Milky Way.
 
-[Projects](/publications){: .btn--research}
+[Projects](./posts/2021-12-11-endsandbeginnings){: .btn--research}
 
 
 ------------------
