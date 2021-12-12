@@ -25,4 +25,4 @@ With future detectors, having many signals in the data may be problematic for th
 
 - Collaborators and I have exploited the Fisher matrix to devise metrics aimed at assessing when the presence of an unmodelled foreground is problematic in PE studies of future detectors. The same metrics can be used to assess confusion-noise biases from the removal of ill-fitted sources. The metrics we devise compare very well against Monte Carlo analyses. [Paper](https://arxiv.org/pdf/2104.01897.pdf){: .btn--research}
 
-- We are developing a Fisher matrix for population inference. We propose several illustrations, some realistic, and compare the Fisher predictions we obtain against independent Monte Carlo analyses.
+- We develop a Fisher matrix for population inference. We propose several illustrations and compare the Fisher predictions against independent Monte Carlo analyses, finding very good agreement.
