@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Andrea Antonelli"
 title_separator          : "-"
-name                     : &name "Andrea Antonelli"
+name                     : &name "Andrea Antonelli, astrophysicist"
 description              : &description "Gravitational-wave astrophysicist: interested in gravity, astrophysics of black holes, and statistical analyses."
 url                      : https://aantonelli94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
