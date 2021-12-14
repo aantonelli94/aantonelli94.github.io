@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Andrea Antonelli"
 title_separator          : "-"
-name                     : &name "Andrea Antonelli, astrophysicist"
-description              : &description "Gravitational-wave astrophysicist: interested in gravity, astrophysics of black holes, and statistical analyses."
+name                     : &name "Andrea Antonelli"
+description              : &description "Gravitational-wave astrophysicist"
 url                      : https://aantonelli94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aantonelli94/aantonelli94.github.io"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : #&twitter
 facebook:
-  username               :
+  username               : andrea.antonelli.56
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -85,32 +85,32 @@ author:
   bio              : "Gravitational-wave astrophysicist: interested in gravity, astrophysics of black holes, and statistical analyses."
   location         : "Baltimore, Maryland"
   employer         : "Johns Hopkins University"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-nX4TmcAAAAJ"
   email            : "andrea.antonelli@aei.mpg.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/andrea.antonelli.56/"
   foursquare       :
   github           : "aantonelli94"
   google_plus      :
   keybase          :
   INSPIRE-HEP      : "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20a.antonelli.3&ui-citation-summary=true"
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://uk.linkedin.com/in/andrea-antonelli-422188129"
   orcid            : "https://orcid.org/0000-0001-6536-0822"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
