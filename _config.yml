@@ -87,7 +87,7 @@ author:
   employer         : "Johns Hopkins University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-nX4TmcAAAAJ"
-  email            : "andrea.antonelli@aei.mpg.de"
+  email            : "aantone3@jh.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "andrea-antonelli-422188129"
-  orcid            : "https://orcid.org/0000-0001-6536-0822"
+  orcid            : "0000-0001-6536-0822"
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -115,9 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :  
-  # Custom author fields follow (check out Leo C. Stein's website's repo for more.)
-  orcid            : "0000-0001-6536-0822"
+  wikipedia        :
   inspire          : "a.antonelli.3"
 
 
