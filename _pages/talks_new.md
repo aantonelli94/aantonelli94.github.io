@@ -11,6 +11,7 @@ title: "Talks"
 Here is a list of talks I have given over the years. **Bold titles** denote invited talks.
 
 <ol reversed>
+ <li>   <i> Measuring accretion-disk effects with gravitational-wave observations </i>, APS April Meeting 2022, New York. </li>
   <li>  <b>Noisy neighbours: inference biases from overlapping gravitational-wave sources </b>,
   GW-Cosmo journal club, Johns Hopkins University (virtual).</li>
   <li>  <b>Noisy neighbours: inference biases from overlapping gravitational-wave sources </b>,
