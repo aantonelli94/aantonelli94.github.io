@@ -23,6 +23,8 @@ The LISA mission will also unravel thousands of white-dwarf binaries in our very
 # Projects
 
 
-- Collaborators and I are exploring the effect of the accretion disks surrounding the central black holes in the centre of most galaxies. There are several effects of interest, coming from planetary-type migration, winds, or dynamical friction.
+- We are exploring the effect of the accretion disks surrounding the central black holes in the centre of most galaxies. There are several effects of interest: planetary-type migration, winds, or dynamical friction.
 
-- We investigate whether galactic binaries in the Milky Way could be used to test modifications to gravity. We focus on classes of theories that give a time dependence to the gravitational constant.
+- We are interested in understanding whether gravitational-wave observations can detect the presence of dark-matter spikes, namely overdensities in the distribution of galactic dark-matter halos. This line of work has implications for detecting new Physics beyond the Standard Model, or constraining dark-matter models.
+
+- We investigate whether galactic binaries in the Milky Way could be used to test modifications to gravity, such as those that predict a time dependence to the gravitational constant.
