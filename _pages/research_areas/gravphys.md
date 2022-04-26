@@ -23,7 +23,7 @@ All these can be included in synergetic approaches such as the *effective-one-bo
 # Projects
 
 
-- Collaborators and I have have explored how useful the PM approximation is to model LIGO-Virgo-type binaries. We find that successive orders in the PM approximation improve the description of the *bound* orbits detected in LIGO-Virgo analyses. This is not trivial, as PM information is usually obtained by studying scattering (and hence unbound orbits). [Paper](https://arxiv.org/pdf/1901.07102.pdf){: .btn--research}
+- We have have explored how useful the PM approximation is to model LIGO-Virgo-type binaries. We find that successive orders in the PM approximation improve the description of the *bound* orbits detected in LIGO-Virgo analyses. This is not trivial, as PM information is usually obtained by studying scattering (and hence unbound orbits). [Paper](https://arxiv.org/pdf/1901.07102.pdf){: .btn--research}
 
 - We have included SMR information into a EOB Hamiltonian for quasicircular nonspinning binaries, and compared the results against numerical-relativity simulations. We find *excellent* agreement, which suggests that self-force information may be a better base to model binaries than the PN approximation currently in use. [Paper](https://arxiv.org/pdf/1907.11597.pdf){: .btn--research}
 
