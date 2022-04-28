@@ -11,9 +11,9 @@ title: "Research"
 
 Gravitational waves (GW) travel unimpeded throughout the Universe. They are around us all the time, carrying information about the sources that generate them. When these sources are very compact and massive (*black holes* and *neutron stars*) the GWs are loud enough to be detected on Earth with dedicated machines.
 
-Since the first detection of the GWs from a black-hole binary in 2015, the field of gravitational-wave astronomy has risen to prominence. While we are already basking in the "bright" of hundreds of events, it is expected that future detectors will reveal thousands upon thousands more. This ever-increasing dataset is and will continue to be a trove of astrophysical and cosmological information.
+The field of GW astronomy has risen to prominence since the first detection of the GWs from a black-hole binary in 2015. While we are already basking in the "bright" of hundreds of events, it is expected that future detectors will reveal thousands upon thousands more. This ever-increasing dataset is and will continue to be a trove of astrophysical and cosmological information.
 
-To maximise the scientific return of current and future detectors, GW astrophysicists need to work on **theory**, **astrophysics**, and **statistical analyses**. In my work, I harness connections between all three to elucidate what we can learn about our Universe with current and future GW observations.
+To maximise the scientific return of current and future detectors, GW astrophysicists need to work on **theory**, **astrophysics**, and **statistical analyses**. In my work, I harness connections between all three to elucidate what GW observations can tell us about our Universe.
 
 
 ------------------
