@@ -23,7 +23,7 @@ To maximise the scientific return of current and future detectors, GW astrophysi
 ------------------
 
 
-General relativity, the pillar of **gravitational physics**, must be studied in excruciating detail. Within certain schemes, solutions to the general-relativistic equations of motions can be obtained. This is the bedrock to develop waveform predictions, in turn needed for GW *source modelling*. 
+General relativity (GR), the pillar of **gravitational physics**, must be studied in excruciating detail. Within certain schemes, solutions to the general-relativistic equations of motions can be obtained. This is the bedrock to develop waveform predictions, in turn needed for GW *source modelling*. 
 
 >My work exploits the synergies between approximations to the Einstein equations to improve the accuracy attainable in waveform predictions. The approximations I am concerned with are the post-Newtonian, post-Minkowskian and small-mass ratio ones (the latter based on gravitational self-force theory). I have also made extensive use of the effective-one-body formalism to connect all three approaches.
 
@@ -33,9 +33,9 @@ General relativity, the pillar of **gravitational physics**, must be studied in 
 ------------------
 
 
-Lost in the elegance of the black-hole solutions to the Einstein equations, it is sometimes easy to forget that such objects are very much **astrophysical**. Perhaps the most astounding astrophysical observations of black holes concern the *supermassive black holes* at the centre of most galaxies. These are key ingredients in our current understanding of how galaxies form. Their observations with the LISA interferometer could also allow very high precision GW astrophysics.
+Lost in the elegance of the black-hole solutions to the Einstein equations, it is sometimes easy to forget that such objects are very much **astrophysical**. Perhaps the most astounding astrophysical observations of black holes concern the *supermassive black holes* (SMBHs) at the centre of most galaxies. These are key ingredients in our current understanding of how galaxies form. Their observations with the LISA interferometer could also allow very high precision GW astrophysics.
 
->In my research I focus on understanding how we can use future observations with the LISA mission to learn something about the environments of supermassive black holes, including Sgr A\*, the behemoth in our cosmic backyard.
+>In my research I focus on understanding how we can use future observations with the LISA mission to learn something about the environments of SMBHs, including Sgr A\*, the behemoth in our cosmic backyard. This line of work connects areas as seemingly diverse as the astrophysics of SMBHs, searches for dark matter and tests of GR.
 
 [Projects](/research_areas/astrophysics){: .btn--research}
 
