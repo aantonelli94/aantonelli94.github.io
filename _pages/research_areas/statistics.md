@@ -23,6 +23,6 @@ With future detectors, having many signals in the data may be problematic for th
 # Projects
 
 
-- Collaborators and I have exploited the Fisher matrix to devise metrics aimed at assessing when the presence of an unmodelled foreground is problematic in PE studies of future detectors. The same metrics can be used to assess confusion-noise biases from the removal of ill-fitted sources. The metrics we devise compare very well against Monte Carlo analyses. [Paper](https://arxiv.org/pdf/2104.01897.pdf){: .btn--research}
+- Collaborators and I have exploited the Fisher matrix to devise metrics aimed at assessing when the presence of an unmodelled foreground is problematic in PE studies of future detectors. The same metrics can be used to assess confusion-noise biases from the removal of ill-fitted sources. The metrics we devise compare very well against Monte Carlo analyses. [Paper](https://arxiv.org/pdf/2104.01897.pdf){: .btn--research} [Code](https://github.com/aantonelli94/GWOP){: .btn--research}
 
-- We develop a Fisher matrix for population inference. We propose several illustrations and compare the Fisher predictions against independent Monte Carlo analyses, finding very good agreement.
+- We have developed a Fisher-matrix formalism for gravitational-wave population inference. We propose several illustrations and compare the Fisher predictions against independent Monte Carlo analyses, finding very good agreement. In a completely independent way, we also reproduce previous results in the literature regarding how well we can measure the mass distribution of supermassive black holes with future LISA observations. [Paper](https://arxiv.org/pdf/2205.07893.pdf){: .btn--research} [Code](https://github.com/aantonelli94/PopFisher){: .btn--research}
