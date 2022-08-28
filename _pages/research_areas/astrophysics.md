@@ -25,6 +25,7 @@ The LISA mission will also unravel thousands of white-dwarf binaries in our very
 
 - We have modelled with a fully relativistic treatment the DM spikes that are expected to grow adiabatically under the influence of the galaxy's SMBH. We have estimated whether relativistic corrections to the spike or the dynamical friction drag they cause are important for observations of EMRIs within a DM cloud.  [Paper](https://arxiv.org/pdf/2204.12508.pdf){: .btn--research}
 
-- We are exploring the effect of the accretion disks surrounding SMBHs at the centre of most galaxies. There are several effects of interest: planetary-type migration, winds, or dynamical friction.
+- We have explored the effect of the accretion disks surrounding SMBHs at the centre of most galaxies, focussing on a phenomenon known as planetary-type migration. We have concluded that, for a large portion of the disks' parameter space, EMRIs could be used to directly probe accretion properties and distinguish between competing effects. The disk's viscosity could also be measured with appropriate electromagnetic counterparts. The analysis is generic enough to carry over to any environmental effect for which the torque can be written as a power law. [Paper](https://arxiv.org/pdf/2207.10086.pdf){: .btn--research}
 
-- We investigate whether galactic binaries in the Milky Way could be used to test modifications to gravity, such as those that predict a time dependence to the gravitational constant.
+- We have investigated whether galactic binaries in the Milky Way could be used to test modifications to gravity, such as those that predict a time dependence to the gravitational constant. We also provide constraints for inspiraling binaries for both the LISA and DECIGO-like missions.
+[Paper](https://arxiv.org/pdf/2207.10674.pdf){: .btn--research}
