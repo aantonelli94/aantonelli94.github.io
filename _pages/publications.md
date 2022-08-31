@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+ -------------
+ 
+![image info](./pictures/meme_explain)
+
  -------------
  
  

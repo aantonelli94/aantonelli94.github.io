@@ -1,6 +1,6 @@
 ---
 permalink: /research_areas/statistics
-title: "Statistical analyses"
+title: "Statistical analysis"
 ---
 
 -------------------------
