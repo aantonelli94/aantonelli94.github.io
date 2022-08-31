@@ -8,7 +8,7 @@ author_profile: true
 
  -------------
  
-![image info](./pictures/meme_explain)
+![image info](./pictures/meme_explain.png)
 
  -------------
  
