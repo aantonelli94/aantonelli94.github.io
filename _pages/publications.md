@@ -8,7 +8,8 @@ author_profile: true
 
  -------------
  
-![image info](./pictures/meme_explain.png)
+%%![image info](./pictures/meme_explain.png)
+<img src="./pictures/meme_explain.png"  width="300" height="300">
 
  -------------
  
