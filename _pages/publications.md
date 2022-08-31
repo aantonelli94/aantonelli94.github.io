@@ -8,11 +8,6 @@ author_profile: true
 
  -------------
  
-%%![image info](./pictures/meme_explain.png)
-<img src="./pictures/meme_explain.png"  width="300" height="300">
-
- -------------
- 
  
 For an up-to-date list of papers with metrics [click here](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}.
 
