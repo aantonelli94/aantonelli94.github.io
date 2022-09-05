@@ -13,7 +13,7 @@ Gravitational waves (GW) travel unimpeded throughout the Universe. They are arou
 
 The field of GW astronomy has risen to prominence since the first detection of the GWs from a black-hole binary in 2015. While we are already basking in the "bright" of hundreds of events, it is expected that future detectors will reveal thousands upon thousands more. This ever-increasing dataset is and will continue to be a trove of astrophysical and cosmological information.
 
-To maximise the scientific return of current and future detectors, GW astrophysicists need to work on **theory**, **astrophysics**, and **statistical analyses**. In my work, I harness connections between all three to elucidate what GW observations can tell us about our Universe.
+To maximise the scientific return of current and future detectors, GW astrophysicists need to work on **theory**, **astrophysics**, and **statistical analysis**. In my work, I harness connections between all three to elucidate what GW observations can tell us about our Universe.
 
 
 ------------------
