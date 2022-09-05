@@ -50,3 +50,15 @@ Lost in the elegance of the black-hole solutions to the Einstein equations, it i
 
 
 [Projects](/research_areas/statistics){: .btn--research}
+
+
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
