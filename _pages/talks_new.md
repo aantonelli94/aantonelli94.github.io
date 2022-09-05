@@ -4,7 +4,7 @@ title: "Talks"
 ---
  -------------
  
-![image info](./pictures/talkimage.png)
+![image info](./pictures/mtida.png)
 
  -------------
  
