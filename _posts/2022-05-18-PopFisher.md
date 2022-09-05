@@ -12,6 +12,7 @@ tags:
 Population analyses with gravitational-wave (GW) data are hard and computationally expensive, but absolutely crucial for the future of GW astrophysics in the blogger's humble opinion.
 
 In our [paper](https://arxiv.org/pdf/2205.07893.pdf) with Jon Gair and Riccardo Barbieri, we have taken a step back and thought about alternative ways to estimate the precision on distribution parameters that would better lend themselves to quick and dirty forecast estimates. In purely Jon's style, we ended up within a Fisher-matrix formalism. 
+<!--more-->
 
 We find that a formalism can be developed for arbitrary population models, and including selection effects and uncertainties in individual events' measurements. In its full glory the final equation (last in Sec.2) is admittedly brutal, but there are ways to make it more tractable. Tip: the first term is what you mostly care about!
 
