@@ -5,10 +5,6 @@ title: "Research"
 
 
  -------------
- 
-![image info](./pictures/delicatearch.png)
-
-------------------
 
 ### Lay summary
 

@@ -7,11 +7,6 @@ author_profile: true
 
  -------------
  
-![image info](./pictures/mistfalls.png)
-
- -------------
- 
- 
 For an up-to-date list of papers with metrics [click here](https://inspirehep.net/authors/1755036?ui-citation-summary=true){: .btn--research}.
 
  -------------
