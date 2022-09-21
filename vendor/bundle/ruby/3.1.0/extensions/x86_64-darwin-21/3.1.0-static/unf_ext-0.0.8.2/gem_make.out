@@ -1,0 +1,16 @@
+current directory: /Users/aantonelli/aantonelli94.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/aantonelli/.rubies/ruby-3.1.2/bin/ruby -I /Users/aantonelli/.rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220920-33033-7psxes.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/aantonelli/aantonelli94.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /Users/aantonelli/aantonelli94.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/aantonelli/aantonelli94.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20220920-33033-j4fm7w
