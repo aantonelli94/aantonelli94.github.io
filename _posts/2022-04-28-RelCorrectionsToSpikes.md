@@ -3,9 +3,9 @@ title: 'The impact of relativistic corrections on the detectability of dark-matt
 date: 2022-04-28
 permalink: /posts/2022/04/RelCorrectionsToSpikes/
 excerpt_separator: <!--more-->
-toc: true
+
 tags:
-  - paper
+ -paper
 ---
 
 

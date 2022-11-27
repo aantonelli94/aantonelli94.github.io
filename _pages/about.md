@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,30 +13,39 @@ redirect_from:
 ![image info](./pictures/minimal_mountain.png)
 
 
+I am a *gravitational-wave astrophysicist* that uses data, statistics and astrophysics to understand the origin of black holes. 
+In the past, I have also leveraged several analytical techniques to solve the fundamental equations of general relativity and provide better models for time series data from gravitational-wave interferometers. 
 
-### Who am I?
 
-I am a *gravitational-wave astrophysicist*, and I think about gravity, black holes, and neutron stars quite a bit.
+I am deeply passionate about learning new statistical techniques and applying novel technologies to obtain simple solutions from complex problems. 
 
-My expertise is in analytical relativity and gravitational-wave source modelling, but I also like to work with data. I am interested in the black-hole astrophysics and cosmology that we can learn from gravitational-wave observations. Part of my work is devoted to develop statistical tools to maximise the scientific return from such observations.
 
-In this page you can find more about my research by browsing through [the dedicated page](https://aantonelli94.github.io/research/){: .btn--research} or my [publications](https://aantonelli94.github.io/publications/){: .btn--research}.
+In this website, you can find:
+
+1. My [research](https://aantonelli94.github.io/research/){: .btn--research} on black-hole astrophysics and signal modelling.
+
+2. The [software](https://aantonelli94.github.io/software/){: .btn--research} I have developed for my research.
+
+3. The [posts](https://aantonelli94.github.io/year-archive/){: .btn--research} where I describe my research. 
+
+4. My [publications](https://aantonelli94.github.io/publications/){: .btn--research} and other works.
+
+
 
 -------------
 
-### Where am/was I?
+### My trajectory
 
 Currently I am a *postdoctoral fellow* in [Emanuele Berti](https://pages.jh.edu/eberti2/)'s group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
 
 I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of [Alessandra Buonanno](https://en.wikipedia.org/wiki/Alessandra_Buonanno).
 There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm.
 
-Before that I was a master student at the University of Oxford, a BSc student at King's College London, and a student at the Liceo Classico in Perugia, perked in the wonderful hills of Umbria.
+Before that I earned my master in Mathematics and Theoretical Physics at the University of Oxford, my BSc in Physics at King's College London, and my diploma in humanities at the Liceo Classico in Perugia, perked in the wonderful hills of Umbria.
 
 
--------------
+----------
 
-### Why am I?
-
-If you find an answer to this existential question, please send an email at the link to the left of this text.
-
+<font size="0.9">
+Picture: https://www.vippng.com/preview/TiJbohi_transparency-portable-network-graphics-clip-art-image-mountain/
+</font>

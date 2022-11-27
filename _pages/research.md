@@ -6,11 +6,11 @@ title: "Research"
 
  -------------
 
-### Lay summary
+### What are gravitational waves?
 
 ------------------
 
-Gravitational waves (GW) travel unimpeded throughout the Universe. They are around us all the time, carrying information about the sources that generate them. When these sources are very compact and massive (*black holes* and *neutron stars*) the GWs are loud enough to be detected on Earth with dedicated machines.
+Gravitational waves (GWs) travel unimpeded throughout the Universe. They are around us all the time, carrying information about the sources that generate them. When these sources are very compact and massive,  such as **black holes** or **neutron stars**, the waves are loud enough to be detected on Earth with dedicated interferometers.
 
 The field of GW astronomy has risen to prominence since the first detection of the GWs from a black-hole binary in 2015. While we are already basking in the "bright" of hundreds of events, it is expected that future detectors will reveal thousands upon thousands more. This ever-increasing dataset is and will continue to be a trove of astrophysical and cosmological information.
 
@@ -19,17 +19,17 @@ To maximise the scientific return of current and future detectors, GW astrophysi
 
 ------------------
 
-### For the connoisseuse/connoiseur
+### My work
 
 ------------------
 
 
-General relativity (GR), the pillar of **gravitational physics**, must be studied in excruciating detail. Within certain schemes, solutions to the general-relativistic equations of motions can be obtained. This is the bedrock to develop waveform predictions, in turn needed for GW *source modelling*. 
+**Statistics** is the language used to interpret the data coming out of detectors, and can broadly be divided into two philosophies: the frequentist and Bayesian. 
 
->My work exploits the synergies between approximations to the Einstein equations to improve the accuracy attainable in waveform predictions. The approximations I am concerned with are the post-Newtonian, post-Minkowskian and small-mass ratio ones (the latter based on gravitational self-force theory). I have also made extensive use of the effective-one-body formalism to connect all three approaches.
+>I exploit both frequentist and Bayesian statistics to develop tools that address current and future data analyses. I am particularly interested in understanding how to deal with many sources at once, which is needed both to extract the parameters of individual sources with future detectors and to extract astrophysical and cosmological population-level parameters with currently available data.
 
-[Projects](/research_areas/gravphys){: .btn--research}
 
+[Projects](/research_areas/statistics){: .btn--research}
 
 ------------------
 
@@ -44,9 +44,9 @@ Lost in the elegance of the black-hole solutions to the Einstein equations, it i
 ------------------
 
 
-**Statistics** is the language used to interpret the data coming out of detectors, and can broadly be divided into two philosophies: the frequentist and Bayesian. 
 
->I exploit both frequentist and Bayesian statistics to develop tools that address current and future data analyses. I am particularly interested in understanding how to deal with many sources at once, which is needed both to extract the parameters of individual sources with future detectors and to extract astrophysical and cosmological population-level parameters with currently available data.
+General relativity (GR), the pillar of **gravitational physics**, must be studied in excruciating detail. Within certain schemes, solutions to the general-relativistic equations of motions can be obtained. This is the bedrock to develop accurate predictions for the time-series signals we are looking for in detectors. 
 
+>My work exploits the synergies between approximations to the Einstein equations to improve the accuracy attainable in waveform predictions. The approximations I am concerned with are the post-Newtonian, post-Minkowskian and self-force theory. I have also made extensive use of the effective-one-body formalism to connect all three approaches.
 
-[Projects](/research_areas/statistics){: .btn--research}
+[Projects](/research_areas/gravphys){: .btn--research}
