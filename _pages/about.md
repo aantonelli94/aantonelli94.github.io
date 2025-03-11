@@ -13,11 +13,10 @@ redirect_from:
 ![image info](./pictures/minimal_mountain.png)
 
 
-I am a *gravitational-wave astrophysicist* that uses data, statistics and astrophysics to understand the origin of black holes. 
-In the past, I have also leveraged several analytical techniques to solve the fundamental equations of general relativity and provide better models for time series data from gravitational-wave interferometers. 
+I am a quant and model developer at a large financial institution, focussing on risk analytics and management. In the past I was a a *gravitational-wave astrophysicist* using data, statistics and astrophysics to understand the origin of black holes, and using general relativity to model the complex dynamics of black holes as they rotate around each other.
 
 
-I am deeply passionate about learning new statistical techniques and applying novel technologies to obtain simple solutions from complex problems. 
+I am deeply passionate about learning new statistical techniques and topics. Currently, I am very interested in risk analytics, statistical modelling for financial institutions, and portfolio analytics.
 
 
 In this website, you can find:
@@ -36,7 +35,9 @@ In this website, you can find:
 
 ### My trajectory
 
-Currently I am a *postdoctoral fellow* in [Emanuele Berti](https://pages.jh.edu/eberti2/)'s group at Johns Hopkins University, where I regularly interact with bright students and colleagues. If not at work, you can probably find me hiking in some nearby mountains.
+I am currently a quant/risk manager at a large financial institution, where I have covered a variety of roles from model validation to model development teams.
+
+I was a *postdoctoral fellow* in [Emanuele Berti](https://pages.jh.edu/eberti2/)'s group at Johns Hopkins University, where I regularly interact with bright students and colleagues. 
 
 I have defended my PhD at the Max Planck Institute for Gravitational Physics (Potsdam, Germany), where I have worked under the supervision of [Alessandra Buonanno](https://en.wikipedia.org/wiki/Alessandra_Buonanno).
 There I have spent 4 wonderful years, and met many friends and current collaborators. I have also thoroughly enjoyed the beautiful lakes around Golm.
